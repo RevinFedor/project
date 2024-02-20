@@ -1,0 +1,21 @@
+.info_user{
+    text-align: center;
+    align-items: center;
+    margin-bottom: 5vh;
+}
+.userTXT{
+    margin-top: 15px;
+    display: flex;
+    flex-direction: column;
+    gap: 5px
+}
+
+.main_account{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 15px;
+}
+.row_link{
+    display: flex;
+}
